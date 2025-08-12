@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**flowifhat/flowifhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Flo, a tech enthusiast with a strong passion for turning ideas into impactful digital products.  
+In my current role, I work as a **Analytics Engineer**, designing and optimizing solutions with **GCP, Python, and SQL** to help businesses make better, data-driven decisions.  
 
-Here are some ideas to get you started:
+Outside of work, I created [Fasan.App](https://www.fasan.app), a modern OKR management platform, combining my love for product development with my skills in **Ruby on Rails**, **React**, and **TypeScript**. Building scalable, user-friendly SaaS solutions is where I thrive.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I hold a **Bachelor degree in Business Informatics** and enjoy working at the intersection of technology, data, and business strategy.  
+
+**Tech Stack Highlights:**  
+- **Backend:** Ruby on Rails, PostgreSQL, Redis  
+- **Frontend:** React, TypeScript, Tailwind CSS  
+- **Data & Analytics:** GCP, Python, SQL  
+
+Always curious, always building 🚀
