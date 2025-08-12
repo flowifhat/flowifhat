@@ -1,11 +1,17 @@
 ## Hi there 👋
 
-I’m Flo, a tech enthusiast with a strong passion for turning ideas into impactful digital products.  
-In my current role, I work as a **Analytics Engineer**, designing and optimizing solutions with **GCP, Python, and SQL** to help businesses make better, data-driven decisions.  
+<p align="justify">
+I’m Flo, a tech enthusiast with a strong passion for turning ideas into impactful digital products.
+In my current role, I work as an <strong>Analytics Engineer</strong>, designing and optimizing solutions with <strong>GCP, Python, and SQL</strong> to help businesses make better, data-driven decisions.
+</p>
 
-Outside of work, I created [Fasan.App](https://www.fasan.app), a modern OKR management platform, combining my love for product development with my skills in **Ruby on Rails**, **React**, and **TypeScript**. Building scalable, user-friendly SaaS solutions is where I thrive.  
+<p align="justify">
+Outside of work, I created <a href="https://www.fasan.app">Fasan.App</a>, a modern OKR management platform, combining my love for product development with my skills in <strong>Ruby on Rails</strong>, <strong>React</strong>, and <strong>TypeScript</strong>. Building scalable, user-friendly SaaS solutions is where I thrive.
+</p>
 
-I hold a **Bachelor degree in Business Informatics** and enjoy working at the intersection of technology, data, and business strategy.  
+<p align="justify">
+I hold a <strong>Bachelor’s degree in Business Informatics</strong> and enjoy working at the intersection of technology, data, and business strategy.
+</p>
 
 **Tech Stack Highlights:**  
 - **Backend:** Ruby on Rails, PostgreSQL, Redis  
